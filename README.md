@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **Python, Java, Machine Learning**
+- 💬 Ask me about **Python, Java, Machine Learning, Computer Science**
 
 - 📫 How to reach me **colson.xu@gmail.com**
 
